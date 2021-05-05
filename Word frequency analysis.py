@@ -1,34 +1,7 @@
-# lab 3
-# Samir Jamehdar DVGHI20
-# Fråga 1): Jag förväntade mig att lösa uppgiften på cirka 20 timmar.
-# Fråga 2): Det tog som förväntat cirka 20 timmar att lösa uppgiften.
+# Samir Jamehdar 
+# Word frequency analysis from a .txt file
 
 
-
-
-# Uppgift 3A - Rekursiv funktion
-
-# def recursive_max(lst):
-#     """ Returns the highest value from a list of integers.
-#     """
-
-#     if len(lst) ==0:
-#         return 'The list is empty'
-#     if len(lst) == 1:
-#         return lst[0]
-
-#     max_value = recursive_max(lst[1:])
-
-#     if max_value > lst[0]:
-#         return max_value
-#     else:
-#         return lst[0]
-
-# print(recursive_max([1, 2, 3, 7, 5, -3, -1, 9]))
-
-
-
-# Uppgift 3B - Ordfrekvensanalys
 
 import math
 
